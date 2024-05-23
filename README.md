@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # 🎬 Movie Recommendation System using Machine Learning
 
 Welcome to the Movie Recommendation System! This project demonstrates a content-based recommendation model using machine learning, hosted with Streamlit.
@@ -25,44 +25,44 @@ Ensure you have Python 3.9 or higher installed on your system. You also need to 
 
 1. **Clone the Repository**
 
-   ```sh
+  
    git clone https://github.com/yourusername/movie-recommendation-system.git
    cd movie-recommendation-system
-   ```
+
 
 2. **Create a Virtual Environment**
 
-   ```sh
+ 
    python -m venv myenv
-   ```
+  
 
 3. **Activate the Virtual Environment**
 
    - **Windows**
 
-     ```sh
+    
      myenv\Scripts\activate
-     ```
+     
 
    - **macOS/Linux**
 
-     ```sh
+     
      source myenv/bin/activate
-     ```
+     
 
 4. **Install Dependencies**
 
-   ```sh
+  
    pip install -r requirements.txt
-   ```
+
 
 ## Usage
 
 1. **Run the Streamlit App**
 
-   ```sh
+
    streamlit run app.py
-   ```
+
 
 2. **Open the Web Application**
 
@@ -75,7 +75,7 @@ Ensure you have Python 3.9 or higher installed on your system. You also need to 
 
 ## Project Structure
 
-```
+
 movie-recommendation-system/
 ├── artificats/
 │   ├── movie_list.pkl
@@ -84,7 +84,7 @@ movie-recommendation-system/
 ├── app.py
 ├── requirements.txt
 └── README.md
-```
+
 
 - `artificats/`: Contains the pickled files for the movie list and similarity matrix.
 - `app.py`: The main Streamlit application.

@@ -114,16 +114,3 @@ This project is licensed under the MIT License.
 Feel free to contribute to this project by submitting issues or pull requests. Happy coding! 🎉
 ```
 
-### Explanation
-
-- **Overview**: Briefly describes the project and its goals.
-- **Features**: Lists the main features of the project.
-- **Installation**: Provides step-by-step instructions to set up the project.
-- **Usage**: Explains how to run and use the application.
-- **Project Structure**: Outlines the directory and file structure.
-- **Data**: Gives information about the data used in the project.
-- **Dependencies**: Lists the main libraries and tools used.
-- **Acknowledgements**: Credits any sources of inspiration or support.
-- **License**: Specifies the licensing for the project.
-
-Make sure to replace placeholders like `https://github.com/yourusername/movie-recommendation-system.git` with your actual repository URL and adjust any paths or filenames to match your project.

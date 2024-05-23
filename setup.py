@@ -13,7 +13,7 @@ setup(
     description='Movie Recommendation Model Package',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    #url=f"XXXXXXXXXXXXXXXXXXX{AUTHOR_NAME}/{SRC_REPO}",
+  
     author_email='harshavardhan75anc@gmail.com',
     packages=[SRC_REPO],
     license='MIT',

@@ -26,7 +26,7 @@ Ensure you have Python 3.9 or higher installed on your system. You also need to 
 1. **Clone the Repository**
 
   
-   git clone https://github.com/yourusername/movie-recommendation-system.git
+   git clone https://github.com/bugremover/movie_recommendation_system.git
    cd movie-recommendation-system
 
 
